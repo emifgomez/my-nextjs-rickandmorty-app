@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 export const firaCode = localFont({
   src: [
     {
-      path: "./FiraCode-medium.woff2",
+      path: "./FiraCode-Medium.woff2",
       weight: "400",
       style: "normal",
     },
